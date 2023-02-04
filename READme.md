@@ -1,6 +1,6 @@
 
  Readme project!
- https://github.com/crocplage/README-PROJECT
+https://github.com/crocplage/README.PROJECT/blob/main/READme.md
 
 ## Description: 
 * this app allows users to generate a professional readme 
